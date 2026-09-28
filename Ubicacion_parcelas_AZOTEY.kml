@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_AZOTEY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N_" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_AZOTEY">
+      <name>Distrito_AZOTEY</name>
+      <Placemark id="Distrito_AZOTEY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6754833.00000000000</SimpleData>
+            <SimpleData name="cedula">6754833</SimpleData>
+            <SimpleData name="Cédula_1">6754833.00000000000</SimpleData>
+            <SimpleData name="N_">220.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAHIANA VEGA VALENZUELA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0975287509</SimpleData>
+            <SimpleData name="Vivienda_L">-23.27811080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.40144300000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.27686147000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40191045000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/23</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.48355324074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">220</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4019104469485,-23.2768614733662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5219955.00000000000</SimpleData>
+            <SimpleData name="cedula">5219955</SimpleData>
+            <SimpleData name="Cédula_1">5219955.00000000000</SimpleData>
+            <SimpleData name="N_">195.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA GONZALEZ DE MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">DALILA MARTINEZ GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_Ti">8162427.00000000000</SimpleData>
+            <SimpleData name="Situación">0</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">0975362702</SimpleData>
+            <SimpleData name="Vivienda_L">-23.35860650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50390110000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.35989101000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50581930000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/16</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.22934027780</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">195</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.5058192985974,-23.3598910057058,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.5042824760768,-23.3594086354578,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5917845.00000000000</SimpleData>
+            <SimpleData name="cedula">5917845</SimpleData>
+            <SimpleData name="Cédula_1">5917845.00000000000</SimpleData>
+            <SimpleData name="N_">211.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLINA CORONEL GIMENEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN RAFAEL</SimpleData>
+            <SimpleData name="Teléfono">0984223349</SimpleData>
+            <SimpleData name="Vivienda_L">-23.32352420000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.34765100000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.32620365000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.35060140000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51745370370</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">211</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3506014014789,-23.3262036505451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6694565.00000000000</SimpleData>
+            <SimpleData name="cedula">6694565</SimpleData>
+            <SimpleData name="Cédula_1">6694565.00000000000</SimpleData>
+            <SimpleData name="N_">202.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GRISELDA BENITEZ DUARTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0986203874</SimpleData>
+            <SimpleData name="Vivienda_L">-23.28110670000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.41018330000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.30346277000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.38825321000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51737268519</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">202</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.388253210279,-23.3034627677416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5039065.00000000000</SimpleData>
+            <SimpleData name="cedula">5039065</SimpleData>
+            <SimpleData name="Cédula_1">5039065.00000000000</SimpleData>
+            <SimpleData name="N_">214.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIDIA MABEL FIGUEREDO VERA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN BLAS</SimpleData>
+            <SimpleData name="Teléfono">0975882720</SimpleData>
+            <SimpleData name="Vivienda_L">-23.28293330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42869830000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.28966768000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.41916044000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/23</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.48179398148</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">214</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4191604352006,-23.2896676816135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7725204.00000000000</SimpleData>
+            <SimpleData name="cedula">7725204</SimpleData>
+            <SimpleData name="Cédula_1">7725204.00000000000</SimpleData>
+            <SimpleData name="N_">221.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA APARECIDA CHAMORRO DUARTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">ZANJA MOROTI</SimpleData>
+            <SimpleData name="Teléfono">0983392228</SimpleData>
+            <SimpleData name="Vivienda_L">-23.27608060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39874740000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.27520884000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.39951404000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51732638889</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">221</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3995140365141,-23.2752088415169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">3944881.00000000000</SimpleData>
+            <SimpleData name="cedula">3944881</SimpleData>
+            <SimpleData name="Cédula_1">3944881.00000000000</SimpleData>
+            <SimpleData name="N_">215.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AURIA INSFRAN CHAPARRO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0971772066</SimpleData>
+            <SimpleData name="Vivienda_L">-23.28222350000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.41089160000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.28094304000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.41060601000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/23</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.48258101852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">215</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4106060084076,-23.280943041563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6645582.00000000000</SimpleData>
+            <SimpleData name="cedula">6645582</SimpleData>
+            <SimpleData name="Cédula_1">6645582.00000000000</SimpleData>
+            <SimpleData name="N_">223.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVA DIAZ CACERES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN ISIDRO</SimpleData>
+            <SimpleData name="Teléfono">0974580075</SimpleData>
+            <SimpleData name="Vivienda_L">-23.29464820000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.41776550000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.29434333000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.41967001000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/23</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.48203703704</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">223</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4196700129739,-23.2943433346003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7468328.00000000000</SimpleData>
+            <SimpleData name="cedula">7468328</SimpleData>
+            <SimpleData name="Cédula_1">7468328.00000000000</SimpleData>
+            <SimpleData name="N_">217.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GERONIMA  VEGA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN ISIDRO</SimpleData>
+            <SimpleData name="Teléfono">0975252921</SimpleData>
+            <SimpleData name="Vivienda_L">-23.29094280000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39817380000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.29428987000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40337940000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51733796296</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">217</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4033794019616,-23.2942898734119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6148845.00000000000</SimpleData>
+            <SimpleData name="cedula">6148845</SimpleData>
+            <SimpleData name="Cédula_1">6148845.00000000000</SimpleData>
+            <SimpleData name="N_">196.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AGUSTINA ORTELLADO GALEANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">0976146602</SimpleData>
+            <SimpleData name="Vivienda_L">-23.32282780000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50655170000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.32516057000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50548480000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/16</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.48006944440</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">196</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.5054848043189,-23.3251605708212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7102829.00000000000</SimpleData>
+            <SimpleData name="cedula">7102829</SimpleData>
+            <SimpleData name="Cédula_1">7102829.00000000000</SimpleData>
+            <SimpleData name="N_">218.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSA RAQUEL HIDALGO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN BLAS</SimpleData>
+            <SimpleData name="Teléfono">0972824849</SimpleData>
+            <SimpleData name="Vivienda_L">-23.28316850000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43630850000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.28485291000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43708057000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/23</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.48159722222</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">218</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.4370805687152,-23.2848529142499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5982072.00000000000</SimpleData>
+            <SimpleData name="cedula">5982072</SimpleData>
+            <SimpleData name="Cédula_1">5982072.00000000000</SimpleData>
+            <SimpleData name="N_">224.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ CAROLINA COLMAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0984607114</SimpleData>
+            <SimpleData name="Vivienda_L">-23.27667910000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39904990000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.27729687000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.39826798000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">-</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/18</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">La participante mafiesta que quiere dejar el proyecto por qu? quiere utizar su campo para otro fines;La parcela se encuentra con perdida total</SimpleData>
+            <SimpleData name="Dias_trans">9.29783903935</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">224</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.3984559288501,-23.2770956755903,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.3979025613896,-23.2776880387938,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6761095.00000000000</SimpleData>
+            <SimpleData name="cedula">6761095</SimpleData>
+            <SimpleData name="Cédula_1">6761095.00000000000</SimpleData>
+            <SimpleData name="N_">219.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLEMENCIA ILUMINADA SALINAS BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-23.30338200000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.38573410000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.30240656000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.38454967000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51738425926</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">219</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.3850140405901,-23.3027283055983,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.3838499015651,-23.3019217185056,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">3201473.00000000000</SimpleData>
+            <SimpleData name="cedula">3201473</SimpleData>
+            <SimpleData name="Cédula_1">3201473.00000000000</SimpleData>
+            <SimpleData name="N_">209.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLADIS CONCEPCION CARRILLO VERA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">ZANJA MOROTI</SimpleData>
+            <SimpleData name="Teléfono">0973636736</SimpleData>
+            <SimpleData name="Vivienda_L">-23.31709320000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.35988160000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.31738445000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.36028072000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51743055556</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">209</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.3602807238304,-23.317384447952,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.3589483338328,-23.3170093962689,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6693478.00000000000</SimpleData>
+            <SimpleData name="cedula">6693478</SimpleData>
+            <SimpleData name="Cédula_1">6693478.00000000000</SimpleData>
+            <SimpleData name="N_">222.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LILIAN SOLEDAD CHAMORRO DIAZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">ZANJA MOROTI</SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-23.31388640000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.36310800000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.31773971000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.36813867000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51740740741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">222</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3681386697918,-23.3177397113216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5559408.00000000000</SimpleData>
+            <SimpleData name="cedula">5559408</SimpleData>
+            <SimpleData name="Cédula_1">5559408.00000000000</SimpleData>
+            <SimpleData name="N_">225.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA ELIZABETH VELAZQUEZ GODOY</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">ZANJA MOROTI</SimpleData>
+            <SimpleData name="Teléfono">0971578346</SimpleData>
+            <SimpleData name="Vivienda_L">-23.29845890000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39131180000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.29735234000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.38877500000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51736111111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">225</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3887749963685,-23.297352337226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">4160605.00000000000</SimpleData>
+            <SimpleData name="cedula">4160605</SimpleData>
+            <SimpleData name="Cédula_1">4160605.00000000000</SimpleData>
+            <SimpleData name="N_">197.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISTINA MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">COM INDIG VYA PAVE-AZOTEY</SimpleData>
+            <SimpleData name="Teléfono">0975251997</SimpleData>
+            <SimpleData name="Vivienda_L">-23.32679360000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50950510000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.32756221000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50673641000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/16</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.51619212960</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">197</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.5067364097369,-23.3275622099336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">2889131.00000000000</SimpleData>
+            <SimpleData name="cedula">2889131</SimpleData>
+            <SimpleData name="Cédula_1">2889131.00000000000</SimpleData>
+            <SimpleData name="N_">210.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA CASILDA MAIDANA BRITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">ZANJA MOROTI</SimpleData>
+            <SimpleData name="Teléfono">0983054300</SimpleData>
+            <SimpleData name="Vivienda_L">-23.32813540000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.34164120000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.33114442000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.34481886000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/21</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.51747685186</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">210</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.3448188640741,-23.3311444203644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
